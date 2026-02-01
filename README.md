@@ -84,18 +84,4 @@ Feel free to use, modify, and distribute it.
 - Paul Shuvro
 - GitHub: https://github.com/paul-shuvro
 
-# 🎮 Ray-Runner
-
-![GitHub stars](https://img.shields.io/github/stars/paul-shuvro/Ray-Runner?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/paul-shuvro/Ray-Runner?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/paul-shuvro/Ray-Runner?style=flat-square)
-![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=flat-square)
-
-Ray-Runner is a fast-paced **HTML5 Canvas runner game** built using **vanilla JavaScript**. The goal is simple: dodge obstacles, react fast, and survive as long as possible as the game speed increases.
-
----
-
-
-
-
 
