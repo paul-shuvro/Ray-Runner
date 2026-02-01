@@ -1,5 +1,10 @@
 # 🎮 Ray-Runner
 
+![GitHub stars](https://img.shields.io/github/stars/paul-shuvro/Ray-Runner?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/paul-shuvro/Ray-Runner?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/paul-shuvro/Ray-Runner?style=flat-square)
+![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=flat-square)
+
 Ray-Runner is a fast-paced, browser-based runner game built with HTML5 Canvas and vanilla JavaScript, designed for smooth, real-time performance. Players control a runner who must continuously evade incoming obstacles, relying on precise timing and rapid decision-making. The game dynamically increases in speed and difficulty over time, delivering an intense and progressively challenging gameplay experience that rewards skill and reaction speed.
 
 This project demonstrates core game development concepts such as animation loops, collision detection, keyboard input handling, and efficient canvas rendering.
