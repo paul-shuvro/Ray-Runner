@@ -77,7 +77,7 @@ Contributions are welcome!
 ## 📄 License
 
 This project is distributed under the MIT License.
-Feel free to use, modify, and distribute it.
+Permission is granted to use, modify, and distribute this work.
 
 ## 👨‍💻 Author
 
