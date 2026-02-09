@@ -13,7 +13,7 @@ This project showcases fundamental game development principles, including animat
 ## 📦 Features
 
 - ⚡ Featuring buttery-smooth animations `requestAnimationFrame`
-- 🎯 Keyboard-based player controls
+- 🎯 Keyboard-enabled player controls
 - 🧱 Dynamic obstacle generation
 - 📊 Real-time scoring system
 - 🧠 Simple, readable, and extendable codebase
