@@ -7,7 +7,7 @@
 
 Ray-Runner is a fast-paced runner game built directly on HTML5 Canvas using vanilla JavaScript, focusing on efficiency and buttery-smooth performance. The player controls an auto-running character, requiring accurate timing and rapid decision-making to evade oncoming obstacles. The game features dynamic difficulty scaling, steadily increasing speed to deliver a high-intensity experience that rewards mastery and quick reactions.
 
-This project showcases fundamental game development principles, including animation cycles, collision handling, keyboard input processing, and optimized canvas rendering.
+This project demonstrates core game development concepts such as animation sequencing, collision detection, keyboard input management, and efficient canvas rendering techniques.
 
 
 ## 📦 Features
